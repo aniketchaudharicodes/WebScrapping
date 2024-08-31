@@ -124,5 +124,5 @@ def generate_crypto_report(crypto_name):
     
 
 # Take user input and pass it to the function
-crypto_name = input("Enter Cryptocurrency name: ")
+crypto_name = input("Enter Cryptocurrency name:  ")
 generate_crypto_report(crypto_name)
